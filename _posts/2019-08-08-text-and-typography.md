@@ -1,6 +1,6 @@
 ---
 title: Text and Typography
-author: cotes
+author: coluzzi
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
@@ -18,15 +18,19 @@ This post is to show Markdown syntax rendering on [**Chirpy**](https://github.co
 ## Headings
 
 # H1 - heading
+
 {: .mt-4 .mb-0 }
 
 ## H2 - heading
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 ### H3 - heading
+
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 #### H4 - heading
+
 {: data-toc-skip='' .mt-4 }
 
 ## Paragraph
@@ -44,15 +48,15 @@ Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas int
 ### Unordered list
 
 - Chapter
-  + Section
-    * Paragraph
+  - Section
+    - Paragraph
 
 ### ToDo list
 
 - [ ] Job
-  + [x] Step 1
-  + [x] Step 2
-  + [ ] Step 3
+  - [x] Step 1
+  - [x] Step 2
+  - [ ] Step 3
 
 ### Description list
 
@@ -69,24 +73,24 @@ Moon
 ## Prompts
 
 > An example showing the `tip` type prompt.
-{: .prompt-tip }
+> {: .prompt-tip }
 
 > An example showing the `info` type prompt.
-{: .prompt-info }
+> {: .prompt-info }
 
 > An example showing the `warning` type prompt.
-{: .prompt-warning }
+> {: .prompt-warning }
 
 > An example showing the `danger` type prompt.
-{: .prompt-danger }
+> {: .prompt-danger }
 
 ## Tables
 
 | Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
+| :--------------------------- | :--------------- | ------: |
 | Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+| Island Trading               | Helen Bennett    |      UK |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
 
 ## Links
 
@@ -128,7 +132,8 @@ fi;
   "colors/light-typography",
   "colors/dark-typography";
 ```
-{: file='_sass/jekyll-theme-chirpy.scss'}
+
+{: file='\_sass/jekyll-theme-chirpy.scss'}
 
 ## Mathematics
 
