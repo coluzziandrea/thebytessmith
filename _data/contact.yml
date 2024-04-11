@@ -1,7 +1,20 @@
 #  The contact options.
 
-- type: github
+- type: direct
+  icon: "fab fa-spotify"
+  link: "https://open.spotify.com/user/coluzziandrea"
+
+- type: direct
+  icon: "fab fa-apple"
+  link: "https://open.spotify.com/user/coluzziandrea"
+
+- type: direct
+  icon: "fab fa-google-play"
+  link: "https://open.spotify.com/user/coluzziandrea"
+
+- type: direct
   icon: "fab fa-github"
+  link: "https://open.spotify.com/user/coluzziandrea"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
