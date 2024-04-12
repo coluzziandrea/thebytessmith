@@ -14,6 +14,8 @@ refactor: true
 
 <!-- Get pinned posts -->
 
+
+<h2>Recent Episodes</h2>
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign pinned_num = pinned.size | minus: offset %}
 
