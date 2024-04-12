@@ -2,11 +2,11 @@
 
 - type: direct
   icon: "fab fa-spotify"
-  link: "https://open.spotify.com/user/coluzziandrea"
+  link: "open.spotify.com/user/coluzziandrea"
 
 - type: direct
   icon: "fab fa-apple"
-  link: "https://open.spotify.com/user/coluzziandrea"
+  link: "open.spotify.com/user/coluzziandrea"
 
 - type: direct
   icon: "fab fa-google-play"
@@ -14,7 +14,12 @@
 
 - type: direct
   icon: "fab fa-github"
-  link: "https://github.com/coluzziandrea/thebytessmith"
+  link: "github.com/coluzziandrea/thebytessmith"
+
+- type: direct
+  icon: "fa-brands fa-youtube"
+  link: "www.youtube.com/channel/UCDbcPO3f9T1VKaecgODSjKQ"
+  
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
