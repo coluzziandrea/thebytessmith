@@ -2,25 +2,25 @@
 
 - type: direct
   icon: "fab fa-spotify"
-  link: "open.spotify.com/user/coluzziandrea"
+  link: "open.spotify.com/show/1hKADK4zGdIeyokWkEx3xX"
 
 - type: direct
   icon: "fab fa-apple"
-  link: "open.spotify.com/user/coluzziandrea"
+  link: "podcasts.apple.com/us/podcast/the-bytes-smith/id1741928466"
 
 - type: direct
-  icon: "fab fa-google-play"
-  link: "https://open.spotify.com/user/coluzziandrea"
+  icon: "fa-brands fa-amazon"
+  link: "music.amazon.com/podcasts/4a12e507-b6f5-4e76-9567-7f52b89d4914"
+
+- type: direct
+  icon: "fa-brands fa-youtube"
+  link: "music.youtube.com/playlist?list=PLYf4m5r7m-vrdI6HEK25GONHlwwK1fcug&si=xTUHoRM_A1RqEm8n"
 
 - type: direct
   icon: "fab fa-github"
   link: "github.com/coluzziandrea/thebytessmith"
 
-- type: direct
-  icon: "fa-brands fa-youtube"
-  link: "www.youtube.com/channel/UCDbcPO3f9T1VKaecgODSjKQ"
   
-
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
