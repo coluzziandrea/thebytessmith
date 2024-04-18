@@ -7,9 +7,6 @@ tags: [supabase, firebase, Google, Epic Games, OpenAI]
 pin: false
 ---
 
-# #1 - Show Trailer, Supabase Unleashed!
-
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dTLOou5MYBnHbOF5apa8z?utm_source=generator&t=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
