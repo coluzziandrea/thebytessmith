@@ -1,5 +1,5 @@
 ---
-title: 1 - Llama 3 out, bad reviews for AI Pin
+title: 2 - Llama 3 out, bad reviews for AI Pin
 author: coluzzi
 date: 2024-04-24 09:00:00 +0200
 categories: [News]
