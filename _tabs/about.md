@@ -18,7 +18,7 @@ So, grab your virtual hammer and anvil and join our host as he sift through the 
 <img src="/assets/images/andrea.jpg"
     style="width: 50%; object-fit: cover; border-radius: 999999px" /> 
 
-Andrea Coluzzi is a software engineer, passionate about technology, software development, and open source. He's also a big fan of podcasts and I love to share my thoughts and experiences with the community. 
+Andrea Coluzzi is a software engineer, passionate about technology, software development, and open source. He's also a big fan of podcasts and he loves to share his thoughts and experiences with the community. 
 
 He's currently working as a Software Engineer at [Klarna](https://www.klarna.com/), where he's part of the team that's building the next generation of the Klarna app.
 
